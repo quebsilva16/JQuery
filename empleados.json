@@ -1,0 +1,38 @@
+{
+    "empleados": [
+        {
+            "nombre": "Marco",
+            "puesto": "Programador",
+            "edad": 23
+        },
+        {
+            "nombre": "Fer",
+            "puesto": "Programador",
+            "edad": 26
+        },
+        {
+            "nombre": "Elio",
+            "puesto": "Programador",
+            "edad": 30
+        }
+    
+    ],
+    "temporales": [
+        {
+            "nombre": "Miguel",
+            "puesto": "Programador",
+            "edad": 23
+        },
+        {
+            "nombre": "Mario",
+            "puesto": "Programador",
+            "edad": 26
+        },
+        {
+            "nombre": "Jonatan",
+            "puesto": "Programador",
+            "edad": 30
+        }
+    
+    ]
+}
